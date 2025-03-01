@@ -1,0 +1,4 @@
+.env
+config/math-ai-assistant-451822-bd4d61a0c563.json
+.gradio
+scr/__pycache__
