@@ -1,5 +1,7 @@
 # Crea un Asistente de Matemáticas con Gemini 2.0 Flash Thinking, Vertex AI y Gradio
 
+![image](img/gemini.png)
+
 Este repositorio contiene el código para implementar un asistente de matemáticas basado en **Gemini 2.0 Flash Thinking**, utilizando **Vertex AI** y **Gradio**. Si quieres conocer los detalles técnicos y el contexto del proyecto, consulta el artículo publicado en [Medium](https://console.cloud.google.com/).
 
 ## Configuración del Proyecto
@@ -57,6 +59,8 @@ Para iniciar la aplicación con Gradio:
 gradio app.py
 ```
 Esto abrirá una interfaz web donde podrás interactuar con el asistente matemático.
+
+![image](img/demo.gif)
 
 ## Referencias
 - [Gemini API - Thinking Mode](https://ai.google.dev/gemini-api/docs/thinking)
