@@ -64,3 +64,5 @@ Esto abrirá una interfaz web donde podrás interactuar con el asistente matemá
 - [Repositorio Oficial de Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_2_0_flash_thinking_mode.ipynb)
 
 Para más detalles técnicos y ejemplos, consulta el artículo en [Medium](https://console.cloud.google.com/).
+
+Google Cloud credits are provided for this project. #VertexAISprint
