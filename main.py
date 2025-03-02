@@ -107,7 +107,7 @@ def process_input(image_path: Optional[str], user_text: Optional[str], progress=
 
     response_text = model_response.text if model_response and hasattr(model_response, 'text') else ""
     progress(1.0, desc="Procesamiento completado")
-    print(response_text)
+    # print(response_text) # Respuesta del modelo
     return convert_equations_to_latex(response_text)
 
 # Configurar la interfaz de Gradio
