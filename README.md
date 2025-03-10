@@ -2,7 +2,7 @@
 
 ![image](img/gemini.png)
 
-Este repositorio contiene el código para implementar un asistente de matemáticas basado en **Gemini 2.0 Flash Thinking**, utilizando **Vertex AI** y **Gradio**. Si quieres conocer los detalles técnicos y el contexto del proyecto, consulta el artículo publicado en [Medium](https://console.cloud.google.com/).
+Este repositorio contiene el código para implementar un asistente de matemáticas basado en **Gemini 2.0 Flash Thinking**, utilizando **Vertex AI** y **Gradio**. Si quieres conocer los detalles técnicos y el contexto del proyecto, consulta el artículo publicado en [Medium](https://medium.com/@AleNunezArroyo/crea-un-asistente-de-matem%C3%A1ticas-con-gemini-2-0-flash-thinking-y-vertex-ai-dd990ff7d665).
 
 ## Configuración del Proyecto
 
@@ -67,6 +67,6 @@ Esto abrirá una interfaz web donde podrás interactuar con el asistente matemá
 - [Vertex AI - Thinking Mode](https://cloud.google.com/vertex-ai/generative-ai/docs/thinking)
 - [Repositorio Oficial de Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_2_0_flash_thinking_mode.ipynb)
 
-Para más detalles técnicos y ejemplos, consulta el artículo en [Medium](https://console.cloud.google.com/).
+Para más detalles técnicos y ejemplos, consulta el artículo en [Medium](https://medium.com/@AleNunezArroyo/crea-un-asistente-de-matem%C3%A1ticas-con-gemini-2-0-flash-thinking-y-vertex-ai-dd990ff7d665).
 
 Google Cloud credits are provided for this project. #VertexAISprint
